@@ -1,2 +1,2 @@
-# go_websocket
-用go语言实现的websocket
+# golang_demo
+golang开发的语法小demo
